@@ -1,0 +1,16 @@
+.error{
+    border: 1px dashed red;
+    padding: 2px;
+    margin-top: 4px;
+    border-radius: 4px;
+}
+
+.inputs{
+    padding: 4px;
+    margin-bottom: 2px;
+    /* background-color: burlywood; */
+}
+.submit_buttom{
+    justify-content: center;
+    margin: 10px;
+}

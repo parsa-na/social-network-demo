@@ -1,0 +1,30 @@
+
+.info{
+    background-color: lavender;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 10px;
+}
+
+
+.bio_container{
+    padding: 4px;
+    background-color:  #e6ffff;
+
+} 
+.bio_span{
+margin-bottom: 3px;
+font-size: 2em;
+
+}
+
+.bio{
+    padding: 8px;
+    /* border: 2px solid gray ; */
+    border-radius: 5px;
+}
+
+.article_span{
+    font-size: 2em;
+    margin-bottom: 4px;
+}
